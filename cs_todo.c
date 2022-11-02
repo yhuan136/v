@@ -89,6 +89,7 @@ int main(void) {
 
 	command_loop(todo);
 
+	printf("All done!");
 	return 0;
 }
 
